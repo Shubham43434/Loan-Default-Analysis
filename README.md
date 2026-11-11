@@ -45,10 +45,10 @@ Analysis of loan defaults, credit profiles, and financial trends.
 ## Dashboard Preview
 
 ### Loan Overview
-![Overview](Dashboard-Screenshots/Overview.png)
+![Overview](Dashboard-screenshots/Overview.png)
 
 ### Applicant Demographics
-![Demographics](Dashboard-Screenshots/Applicant-Demographics.png)
+![Demographics](Dashboard-screenshots/Applicant-Demographics.png)
 
 ### Financial Risk Analysis
-![Financial Risk](Dashboard-Screenshots/Financial-Risk.png)
+![Financial Risk](Dashboard-screenshots/Financial-Risk.png)
